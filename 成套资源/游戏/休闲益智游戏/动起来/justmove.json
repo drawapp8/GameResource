@@ -1,0 +1,615 @@
+{"frames": {
+
+"1.png":
+{
+	"frame": {"x":799,"y":245,"w":133,"h":178},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":133,"h":178},
+	"sourceSize": {"w":133,"h":178},
+	"pivot": {"x":0.5,"y":0.5}
+},
+"10.png":
+{
+	"frame": {"x":1051,"y":245,"w":115,"h":180},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":115,"h":180},
+	"sourceSize": {"w":115,"h":180},
+	"pivot": {"x":0.5,"y":0.5}
+},
+"1000yuan.png":
+{
+	"frame": {"x":146,"y":81,"w":91,"h":82},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":91,"h":82},
+	"sourceSize": {"w":91,"h":82},
+	"pivot": {"x":0.5,"y":0.5}
+},
+"10yuan.png":
+{
+	"frame": {"x":497,"y":2,"w":59,"h":41},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":59,"h":41},
+	"sourceSize": {"w":59,"h":41},
+	"pivot": {"x":0.5,"y":0.5}
+},
+"12-游戏结束.png":
+{
+	"frame": {"x":950,"y":952,"w":891,"h":680},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":891,"h":680},
+	"sourceSize": {"w":891,"h":680},
+	"pivot": {"x":0.5,"y":0.5}
+},
+"12-游戏结束2.png":
+{
+	"frame": {"x":2138,"y":2,"w":301,"h":77},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":301,"h":77},
+	"sourceSize": {"w":301,"h":77},
+	"pivot": {"x":0.5,"y":0.5}
+},
+"12-游戏结束3.png":
+{
+	"frame": {"x":2744,"y":2,"w":301,"h":77},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":301,"h":77},
+	"sourceSize": {"w":301,"h":77},
+	"pivot": {"x":0.5,"y":0.5}
+},
+"13-领奖券.png":
+{
+	"frame": {"x":484,"y":952,"w":464,"h":619},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":464,"h":619},
+	"sourceSize": {"w":464,"h":619},
+	"pivot": {"x":0.5,"y":0.5}
+},
+"2.png":
+{
+	"frame": {"x":2713,"y":81,"w":107,"h":162},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":107,"h":162},
+	"sourceSize": {"w":107,"h":162},
+	"pivot": {"x":0.5,"y":0.5}
+},
+"200yuan.png":
+{
+	"frame": {"x":782,"y":2,"w":80,"h":52},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":80,"h":52},
+	"sourceSize": {"w":80,"h":52},
+	"pivot": {"x":0.5,"y":0.5}
+},
+"20yuan.png":
+{
+	"frame": {"x":558,"y":2,"w":82,"h":43},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":82,"h":43},
+	"sourceSize": {"w":82,"h":43},
+	"pivot": {"x":0.5,"y":0.5}
+},
+"3.png":
+{
+	"frame": {"x":2822,"y":81,"w":127,"h":162},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":127,"h":162},
+	"sourceSize": {"w":127,"h":162},
+	"pivot": {"x":0.5,"y":0.5}
+},
+"4.png":
+{
+	"frame": {"x":415,"y":245,"w":129,"h":172},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":129,"h":172},
+	"sourceSize": {"w":129,"h":172},
+	"pivot": {"x":0.5,"y":0.5}
+},
+"400yuan.png":
+{
+	"frame": {"x":81,"y":81,"w":63,"h":79},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":63,"h":79},
+	"sourceSize": {"w":63,"h":79},
+	"pivot": {"x":0.5,"y":0.5}
+},
+"5.png":
+{
+	"frame": {"x":934,"y":245,"w":115,"h":180},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":115,"h":180},
+	"sourceSize": {"w":115,"h":180},
+	"pivot": {"x":0.5,"y":0.5}
+},
+"6.png":
+{
+	"frame": {"x":670,"y":245,"w":127,"h":177},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":127,"h":177},
+	"sourceSize": {"w":127,"h":177},
+	"pivot": {"x":0.5,"y":0.5}
+},
+"7.png":
+{
+	"frame": {"x":2,"y":245,"w":110,"h":162},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":110,"h":162},
+	"sourceSize": {"w":110,"h":162},
+	"pivot": {"x":0.5,"y":0.5}
+},
+"8.png":
+{
+	"frame": {"x":2606,"y":81,"w":105,"h":161},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":105,"h":161},
+	"sourceSize": {"w":105,"h":161},
+	"pivot": {"x":0.5,"y":0.5}
+},
+"9.png":
+{
+	"frame": {"x":546,"y":245,"w":122,"h":173},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":122,"h":173},
+	"sourceSize": {"w":122,"h":173},
+	"pivot": {"x":0.5,"y":0.5}
+},
+"aifeiertieta.png":
+{
+	"frame": {"x":2624,"y":484,"w":392,"h":466},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":392,"h":466},
+	"sourceSize": {"w":392,"h":466},
+	"pivot": {"x":0.5,"y":0.5}
+},
+"bg.png":
+{
+	"frame": {"x":2325,"y":952,"w":480,"h":853},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":480,"h":853},
+	"sourceSize": {"w":480,"h":853},
+	"pivot": {"x":0.5,"y":0.5}
+},
+"big_cloud.png":
+{
+	"frame": {"x":114,"y":245,"w":299,"h":171},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":299,"h":171},
+	"sourceSize": {"w":299,"h":171},
+	"pivot": {"x":0.5,"y":0.5}
+},
+"bottom_cloud.png":
+{
+	"frame": {"x":1517,"y":245,"w":296,"h":191},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":296,"h":191},
+	"sourceSize": {"w":296,"h":191},
+	"pivot": {"x":0.5,"y":0.5}
+},
+"close_botton.png":
+{
+	"frame": {"x":2,"y":81,"w":77,"h":79},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":77,"h":79},
+	"sourceSize": {"w":77,"h":79},
+	"pivot": {"x":0.5,"y":0.5}
+},
+"cloud.png":
+{
+	"frame": {"x":1699,"y":2,"w":134,"h":77},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":134,"h":77},
+	"sourceSize": {"w":134,"h":77},
+	"pivot": {"x":0.5,"y":0.5}
+},
+"cloud_1.png":
+{
+	"frame": {"x":1366,"y":81,"w":180,"h":102},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":180,"h":102},
+	"sourceSize": {"w":180,"h":102},
+	"pivot": {"x":0.5,"y":0.5}
+},
+"cloud_2.png":
+{
+	"frame": {"x":893,"y":81,"w":147,"h":96},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":147,"h":96},
+	"sourceSize": {"w":147,"h":96},
+	"pivot": {"x":0.5,"y":0.5}
+},
+"cloud_big.png":
+{
+	"frame": {"x":2325,"y":81,"w":279,"h":159},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":279,"h":159},
+	"sourceSize": {"w":279,"h":159},
+	"pivot": {"x":0.5,"y":0.5}
+},
+"cloud_xu.png":
+{
+	"frame": {"x":1730,"y":81,"w":163,"h":108},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":163,"h":108},
+	"sourceSize": {"w":163,"h":108},
+	"pivot": {"x":0.5,"y":0.5}
+},
+"cloud_xu_big.png":
+{
+	"frame": {"x":2089,"y":81,"w":234,"h":155},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":234,"h":155},
+	"sourceSize": {"w":234,"h":155},
+	"pivot": {"x":0.5,"y":0.5}
+},
+"daban.png":
+{
+	"frame": {"x":1007,"y":484,"w":421,"h":314},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":421,"h":314},
+	"sourceSize": {"w":421,"h":314},
+	"pivot": {"x":0.5,"y":0.5}
+},
+"dianwo.png":
+{
+	"frame": {"x":1326,"y":2,"w":99,"h":63},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":99,"h":63},
+	"sourceSize": {"w":99,"h":63},
+	"pivot": {"x":0.5,"y":0.5}
+},
+"diqiu.png":
+{
+	"frame": {"x":2225,"y":245,"w":480,"h":237},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":480,"h":237},
+	"sourceSize": {"w":480,"h":237},
+	"pivot": {"x":0.5,"y":0.5}
+},
+"dongfangmingzhu.png":
+{
+	"frame": {"x":2236,"y":484,"w":386,"h":450},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":386,"h":450},
+	"sourceSize": {"w":386,"h":450},
+	"pivot": {"x":0.5,"y":0.5}
+},
+"dongjingtieta.png":
+{
+	"frame": {"x":1829,"y":484,"w":223,"h":402},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":223,"h":402},
+	"sourceSize": {"w":223,"h":402},
+	"pivot": {"x":0.5,"y":0.5}
+},
+"guizeshuoming.png":
+{
+	"frame": {"x":1430,"y":484,"w":397,"h":363},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":397,"h":363},
+	"sourceSize": {"w":397,"h":363},
+	"pivot": {"x":0.5,"y":0.5}
+},
+"jimei_logo.png":
+{
+	"frame": {"x":399,"y":2,"w":96,"h":35},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":96,"h":35},
+	"sourceSize": {"w":96,"h":35},
+	"pivot": {"x":0.5,"y":0.5}
+},
+"linqujijin.png":
+{
+	"frame": {"x":2441,"y":2,"w":301,"h":77},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":301,"h":77},
+	"sourceSize": {"w":301,"h":77},
+	"pivot": {"x":0.5,"y":0.5}
+},
+"middle_cloud.png":
+{
+	"frame": {"x":1548,"y":81,"w":180,"h":103},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":180,"h":103},
+	"sourceSize": {"w":180,"h":103},
+	"pivot": {"x":0.5,"y":0.5}
+},
+"nums.png":
+{
+	"frame": {"x":406,"y":484,"w":200,"h":246},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":200,"h":246},
+	"sourceSize": {"w":200,"h":246},
+	"pivot": {"x":0.5,"y":0.5}
+},
+"over_kuan.png":
+{
+	"frame": {"x":608,"y":484,"w":397,"h":303},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":397,"h":303},
+	"sourceSize": {"w":397,"h":303},
+	"pivot": {"x":0.5,"y":0.5}
+},
+"paixingbang_botton.png":
+{
+	"frame": {"x":1563,"y":2,"w":134,"h":76},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":134,"h":76},
+	"sourceSize": {"w":134,"h":76},
+	"pivot": {"x":0.5,"y":0.5}
+},
+"pengyoulvxing.png":
+{
+	"frame": {"x":1835,"y":2,"w":301,"h":77},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":301,"h":77},
+	"sourceSize": {"w":301,"h":77},
+	"pivot": {"x":0.5,"y":0.5}
+},
+"play_botton.png":
+{
+	"frame": {"x":239,"y":81,"w":216,"h":88},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":216,"h":88},
+	"sourceSize": {"w":216,"h":88},
+	"pivot": {"x":0.5,"y":0.5}
+},
+"shengtuolini.png":
+{
+	"frame": {"x":2707,"y":245,"w":274,"h":237},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":274,"h":237},
+	"sourceSize": {"w":274,"h":237},
+	"pivot": {"x":0.5,"y":0.5}
+},
+"shengyin1.png":
+{
+	"frame": {"x":688,"y":2,"w":45,"h":45},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":45,"h":45},
+	"sourceSize": {"w":45,"h":45},
+	"pivot": {"x":0.5,"y":0.5}
+},
+"shengyin2.png":
+{
+	"frame": {"x":735,"y":2,"w":45,"h":45},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":45,"h":45},
+	"sourceSize": {"w":45,"h":45},
+	"pivot": {"x":0.5,"y":0.5}
+},
+"shenmiao.png":
+{
+	"frame": {"x":1168,"y":245,"w":347,"h":191},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":347,"h":191},
+	"sourceSize": {"w":347,"h":191},
+	"pivot": {"x":0.5,"y":0.5}
+},
+"shuzi.png":
+{
+	"frame": {"x":2,"y":2,"w":156,"h":19},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":156,"h":19},
+	"sourceSize": {"w":156,"h":19},
+	"pivot": {"x":0.5,"y":0.5}
+},
+"sound_botton.png":
+{
+	"frame": {"x":642,"y":2,"w":44,"h":44},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":44,"h":44},
+	"sourceSize": {"w":44,"h":44},
+	"pivot": {"x":0.5,"y":0.5}
+},
+"typeface.png":
+{
+	"frame": {"x":2,"y":484,"w":200,"h":246},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":200,"h":246},
+	"sourceSize": {"w":200,"h":246},
+	"pivot": {"x":0.5,"y":0.5}
+},
+"typeface2.png":
+{
+	"frame": {"x":204,"y":484,"w":200,"h":246},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":200,"h":246},
+	"sourceSize": {"w":200,"h":246},
+	"pivot": {"x":0.5,"y":0.5}
+},
+"youxi_logo.png":
+{
+	"frame": {"x":1815,"y":245,"w":408,"h":194},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":408,"h":194},
+	"sourceSize": {"w":408,"h":194},
+	"pivot": {"x":0.5,"y":0.5}
+},
+"youxiguize.png":
+{
+	"frame": {"x":160,"y":2,"w":126,"h":32},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":126,"h":32},
+	"sourceSize": {"w":126,"h":32},
+	"pivot": {"x":0.5,"y":0.5}
+},
+"youxiguize_botton.png":
+{
+	"frame": {"x":1427,"y":2,"w":134,"h":76},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":134,"h":76},
+	"sourceSize": {"w":134,"h":76},
+	"pivot": {"x":0.5,"y":0.5}
+},
+"youzai_logo.png":
+{
+	"frame": {"x":288,"y":2,"w":109,"h":33},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":109,"h":33},
+	"sourceSize": {"w":109,"h":33},
+	"pivot": {"x":0.5,"y":0.5}
+},
+"zhumulangma.png":
+{
+	"frame": {"x":1843,"y":952,"w":480,"h":853},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":480,"h":853},
+	"sourceSize": {"w":480,"h":853},
+	"pivot": {"x":0.5,"y":0.5}
+},
+"ziyounvshen.png":
+{
+	"frame": {"x":2054,"y":484,"w":180,"h":420},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":180,"h":420},
+	"sourceSize": {"w":180,"h":420},
+	"pivot": {"x":0.5,"y":0.5}
+},
+"卡券.png":
+{
+	"frame": {"x":1204,"y":81,"w":160,"h":99},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":160,"h":99},
+	"sourceSize": {"w":160,"h":99},
+	"pivot": {"x":0.5,"y":0.5}
+},
+"卡券点击.png":
+{
+	"frame": {"x":1042,"y":81,"w":160,"h":99},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":160,"h":99},
+	"sourceSize": {"w":160,"h":99},
+	"pivot": {"x":0.5,"y":0.5}
+},
+"帮朋友.png":
+{
+	"frame": {"x":1095,"y":2,"w":229,"h":60},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":229,"h":60},
+	"sourceSize": {"w":229,"h":60},
+	"pivot": {"x":0.5,"y":0.5}
+},
+"我也来.png":
+{
+	"frame": {"x":864,"y":2,"w":229,"h":60},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":229,"h":60},
+	"sourceSize": {"w":229,"h":60},
+	"pivot": {"x":0.5,"y":0.5}
+},
+"抢红包3.png":
+{
+	"frame": {"x":1992,"y":81,"w":95,"h":120},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":95,"h":120},
+	"sourceSize": {"w":95,"h":120},
+	"pivot": {"x":0.5,"y":0.5}
+},
+"抢红包3点击.png":
+{
+	"frame": {"x":1895,"y":81,"w":95,"h":120},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":95,"h":120},
+	"sourceSize": {"w":95,"h":120},
+	"pivot": {"x":0.5,"y":0.5}
+},
+"接力游戏.png":
+{
+	"frame": {"x":457,"y":81,"w":216,"h":88},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":216,"h":88},
+	"sourceSize": {"w":216,"h":88},
+	"pivot": {"x":0.5,"y":0.5}
+},
+"推荐路线框.png":
+{
+	"frame": {"x":2,"y":952,"w":480,"h":479},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":480,"h":479},
+	"sourceSize": {"w":480,"h":479},
+	"pivot": {"x":0.5,"y":0.5}
+},
+"重新开始.png":
+{
+	"frame": {"x":675,"y":81,"w":216,"h":88},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":216,"h":88},
+	"sourceSize": {"w":216,"h":88},
+	"pivot": {"x":0.5,"y":0.5}
+}},
+"meta": {
+	"app": "http://www.codeandweb.com/texturepacker",
+	"version": "1.0",
+	"image": "justmove.png",
+	"format": "RGBA8888",
+	"size": {"w":3047,"h":1807},
+	"scale": "1",
+	"smartupdate": "$TexturePacker:SmartUpdate:e1129ad1facdc5e041508508eea467f5:21d5e109a07c01362ea6b9a08fcbae3f:4ba3f67271f1a0b2df3d19538d25048f$"
+}
+}
