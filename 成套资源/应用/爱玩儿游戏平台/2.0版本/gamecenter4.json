@@ -450,7 +450,7 @@
 	"sourceSize": {"w":220,"h":52},
 	"pivot": {"x":0.5,"y":0.5}
 },
-"start_dark.png":
+"star_dark.png":
 {
 	"frame": {"x":450,"y":2,"w":19,"h":18},
 	"rotated": false,
