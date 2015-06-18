@@ -1,0 +1,184 @@
+﻿html,body{width:100%;height:100%;}
+html,body,canvas {
+	margin: 0px;
+	padding: 0px;
+	border:none;
+	text-align: center;
+}
+body{
+	background-color: #2c3242;
+	font-family: SimHei;
+	background-repeat: no-repeat;
+	background-size: 100% 100%;
+}
+.PrizeLayer{
+	position: absolute;
+	z-index: 19999;
+	top: 0px;
+	left: 0px;
+	width:100%;
+	height:100%;
+	background-image:url(bg.jpg);
+	background-size:100% 100%;
+	/*background-position:50% 0%;*/
+	background-repeat:no-repeat;
+	display: none;
+	margin:0px;
+}
+.PrizePage{
+	margin:0 auto;
+	width:320px;
+	height:100%;
+	background-image:url('prize/footer.png');
+	background-size:100% auto;
+	background-position:bottom;
+	background-repeat:no-repeat;
+	
+}
+.PrizeFooter{
+	width:320px;
+	height:480px;
+    margin:auto;
+	position: absolute;
+	/*top:0px;
+	left:0px;*/
+	background-image:url('prize/text&form.png?randkey=3');
+	background-size:100% auto;
+	background-repeat: no-repeat;
+	display: none;
+}
+.PrizeOver{
+	width:320px;
+	height:480px;
+    margin:auto;
+	position: absolute;
+	/*top:0px;
+	left:0px;*/
+	background-image:url('prize/text&form2.png?randkey=2');
+	background-size:100% auto;
+	background-repeat: no-repeat;
+	display:none;
+}
+.Prize_tput{
+	width:190px;
+	height:24px;
+	border: 0px;
+	font-size: 1em;
+	background: none;
+	color: #C91B54;
+}
+.Prize_uname{
+	position: absolute;
+	top:260px;
+	left:100px;
+}
+.Prize_uphone{
+	position: absolute;
+	top:303px;
+	left:100px;
+}
+.Prize_uadd{
+	position: absolute;
+	top:390px;
+	left:100px;
+}
+.Prize_upc{
+	position: absolute;
+	top:345px;
+	left:40px;
+}
+.Prize_but{
+	cursor: pointer;
+	position: absolute;
+	top:435px;
+	left:88px;
+	background-image:url('prize/But_PrizeSubmit.png');
+	background-size:100% 100%;
+	background-position:center;
+	width:157px;
+	height:30px;
+}
+.Prize_but_back{
+	cursor: pointer;
+	position: absolute;
+	top:440px;
+	left:88px;
+	background-image:url('prize/But_PrizeBack.png');
+	background-size:100% 100%;
+	background-position:center;
+	width:157px;
+	height:30px;
+	display: none;
+}
+
+.Prize_but_game{
+	cursor: pointer;
+	position: absolute;
+	top:275px;
+	left:88px;
+	background-image:url('prize/But_PrizeGame.png');
+	background-size:100% 100%;
+	background-position:center;
+	width:157px;
+	height:30px;
+}
+
+.Prize_but_Share{
+	cursor: pointer;
+	position: absolute;
+	top:320px;
+	left:88px;
+	background-image:url('prize/But_PrizeShare.png');
+	background-size:100% 100%;
+	background-position:center;
+	width:157px;
+	height:30px;
+}
+
+select {
+	white-space: pre;
+	-webkit-rtl-ordering: logical;
+	border-image-source: initial;
+	border-image-slice: initial;
+	border-image-width: initial;
+	border-image-outset: initial;
+	border-image-repeat: initial;
+	box-sizing: border-box;
+	align-items: center;
+	-webkit-appearance: none;
+	border: 0px solid;
+	cursor: default;
+	width:130px;
+	color:#00978a;
+	font-family: serif;
+	font-weight:bold;
+	background:none;
+	background-color:rgba(255,255,255,0);
+	font-size: 16px;
+}
+.utitle{
+	font-family: serif;
+	font-size: 16px;
+	color: #00978a;
+	position: absolute;
+	top: 3px;
+	left: -50px;
+	font-weight:bold;
+}
+.utitle2{
+	font-family: serif;
+	font-size: 16px;
+	color: #00978a;
+	position: absolute;
+	top: 3px;
+	left: -66px;
+	font-weight:bold;
+}
+
+*{
+	tap-highlight-color:transparent;
+	-ms-Tap-Highlight-Color:transparent;
+	-moz-tap-highlight-color:transparent;
+	-webkit-tap-highlight-color:transparent;
+	-o-tap-highlight-color:transparent;
+}
